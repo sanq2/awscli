@@ -7,7 +7,7 @@
 ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
 
 ## configure
-1. access key & secret key
+### 1. access key & secret key
 - Step 1: Create a new access key, which includes a new secret access key.
   - ref.) https://console.aws.amazon.com/iam/home?region=us-east-1#/users
 - Step 2: choose your IAM user
@@ -15,8 +15,8 @@ ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
 - Step 4: click [create access key:アクセスキー作成] button
 - Step 5: download new credentials csv file and [show] click
 - Step 6: done
-**※ If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.**
-2. aws configure
+  - **※ If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.**
+### 2. aws configure
 - Step 1: open a command line console or terminal
 - Step 2: type command
 ```
