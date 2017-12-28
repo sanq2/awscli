@@ -1,9 +1,13 @@
 # awscli
 ## AWS CLI install
 1. pip install
-- curl -kL https://bootstrap.pypa.io/get-pip.py | python
+```
+curl -kL https://bootstrap.pypa.io/get-pip.py | python
+```
 2. awscli install
-- pip install awscli --upgrade --user
+```
+pip install awscli --upgrade --user
+```
 ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
 
 ## configure
