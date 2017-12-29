@@ -19,7 +19,7 @@ pip install awscli --upgrade --user
 - Step 4: click [create access key: アクセスキー作成] button
 - Step 5: download new credentials csv file and [show] click
 - Step 6: done
-  - **※ <font color="Tomato">If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.</font>**
+  - **<font color="Tomato">caution: If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.</font>**
 
 ### 2. aws configure
 - Step 1: open a command line console or terminal
