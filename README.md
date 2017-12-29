@@ -8,7 +8,7 @@ curl -kL https://bootstrap.pypa.io/get-pip.py | python
 ```
 pip install awscli --upgrade --user
 ```
-ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
+  - ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
 
 ## configure
 ### 1. access key & secret key
@@ -20,6 +20,7 @@ ref.) http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html
 - Step 5: download new credentials csv file and [show] click
 - Step 6: done
   - **※ If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.**
+
 ### 2. aws configure
 - Step 1: open a command line console or terminal
 - Step 2: type command
