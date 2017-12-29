@@ -1,4 +1,3 @@
-# awscli
 ## AWS CLI install
 1. pip install
 ```
@@ -9,10 +8,11 @@ curl -kL https://bootstrap.pypa.io/get-pip.py | python
 pip install awscli --upgrade --user
 ```
   - ref.) [http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html)
->> If you have a Mac, type this 1 line command done!
-  ```
-  brew install awscli
-  ```
+
+> If you have a Mac, type this 1 line command done!
+```
+brew install awscli
+```
 
 ## configure
 ### 1. access key & secret key
