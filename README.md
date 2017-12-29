@@ -26,6 +26,7 @@ brew install awscli
 
 <font color="Tomato">caution: If you already have the maximum of access keys(**limit: 5**) must be delete one first before proceeding.</font>
 
+
 ### 2. aws configure
 - Step 1: open a command line console or terminal
 - Step 2: type command
