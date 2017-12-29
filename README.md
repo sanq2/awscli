@@ -32,7 +32,8 @@ brew install awscli
 ```
 aws configure
 ```
-- Step 3: type your access key ID
-- Step 4: type your secret key
+- Step 3: paste your access key ID
+- Step 4: paste your secret key
 - Step 5: type your region name
 - Step 6: done
+
