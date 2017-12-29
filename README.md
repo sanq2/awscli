@@ -9,6 +9,10 @@ curl -kL https://bootstrap.pypa.io/get-pip.py | python
 pip install awscli --upgrade --user
 ```
   - ref.) [http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html)
+  - If you have a Mac, type this 1 line command done!
+  ```
+  brew install awscli
+  ```
 
 ## configure
 ### 1. access key & secret key
@@ -19,7 +23,8 @@ pip install awscli --upgrade --user
 - Step 4: click [create access key: アクセスキー作成] button
 - Step 5: download new credentials csv file and [show] click
 - Step 6: done
-  - **<font color="Tomato">caution: If you already have the maximum of access keys(limit:5) you must delete one first before proceeding.</font>**
+
+<font color="Tomato">caution: If you already have the maximum of access keys(**limit: 5**) must be delete one first before proceeding.</font>
 
 ### 2. aws configure
 - Step 1: open a command line console or terminal
